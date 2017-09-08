@@ -1,0 +1,181 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]-->
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>  Page not found | HITB GSEC</title>
+
+	
+	<!-- Favicons
+	================================================== -->
+	
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="HITB GSEC &raquo; Feed" href="http://gsec.hitb.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HITB GSEC &raquo; Comments Feed" href="http://gsec.hitb.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/gsec.hitb.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='http://gsec.hitb.org/wp-content/themes/webmakers/css/bootstrap.min.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-responsive-css'  href='http://gsec.hitb.org/wp-content/themes/webmakers/css/bootstrap-responsive.min.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://gsec.hitb.org/wp-content/themes/webmakers/style.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css'  href='http://gsec.hitb.org/wp-content/themes/webmakers/css/plugins.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://gsec.hitb.org/wp-content/themes/webmakers/css/icon.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-css'  href='http://gsec.hitb.org/wp-content/themes/webmakers/color/gray.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://gsec.hitb.org?sccss=1&#038;ver=4.8.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-4346232-8';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-4346232-8', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://gsec.hitb.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://gsec.hitb.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gsec.hitb.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gsec.hitb.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.1" />
+<link href='http://fonts.googleapis.com/css?family=Exo' rel='stylesheet' type='text/css'><style type="text/css">
+body {background-image: url(https://gsec.hitb.org/wp-content/uploads/2015/03/gsec-hero.jpg);}h2,h3,h4,.btn,.btn2,.link,#head h1,#head p,.navbar .nav > li > a,
+.navbar .nav > li > a:visited,.section-heading header h2,.social-media {font-family:Exo,sans-serif;}</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.8.2 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="HITB GSEC"/>
+  <meta property="og:title" content="HITB GSEC"/>
+  <meta property="og:url" content="http://gsec.hitb.org/COMMSEC%20D2%20-%20Fadli%20B.%20Sidek%20-%20Facebook%20-%20The%20Deep%20&amp;%20Dark%20Web%20for%20Threat%20Actors%20in%20Asia.pdf"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Register. Vote. Network."/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="HITB GSEC"/>
+  <meta itemprop="description" content="Register. Vote. Network."/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="HITB GSEC"/>
+  <meta name="twitter:url" content="http://gsec.hitb.org/COMMSEC%20D2%20-%20Fadli%20B.%20Sidek%20-%20Facebook%20-%20The%20Deep%20&amp;%20Dark%20Web%20for%20Threat%20Actors%20in%20Asia.pdf"/>
+  <meta name="twitter:description" content="Register. Vote. Network."/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.8.2 -->
+
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="76" class="error404">  <div id="navigation" class="navbar navbar-inverse">
+    <div class="container">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar pull-right" type="button">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+              <a href="http://gsec.hitb.org/" class="brand" title="HITB GSEC"><img src="https://gsec.hitb.org/wp-content/uploads/2015/03/GSEC-logo-small1.png" alt="" /></a>
+      
+      <nav class="pull-right nav-collapse collapse">
+        <ul id="menu-main" class="nav clearfix"><li id="menu-item-2194" class="menu-item menu-item-type-post_type menu-item-object-homepagesections menu-item-2194"><a href="http://gsec.hitb.org/#about" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://gsec.hitb.org/#about', 'What is HITB GSEC?');" title="What is HITB GSEC?">What is HITB GSEC?</a></li>
+<li id="menu-item-2234" class="menu-item menu-item-type-post_type menu-item-object-homepagesections menu-item-2234"><a href="http://gsec.hitb.org/#how-does-it-work" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://gsec.hitb.org/#how-does-it-work', 'How Does It Work?');" title="How Does It Work?">How Does It Work?</a></li>
+<li id="menu-item-2240" class="menu-item menu-item-type-post_type menu-item-object-homepagesections menu-item-2240"><a href="http://gsec.hitb.org/#upcoming-events" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://gsec.hitb.org/#upcoming-events', 'When and Where?');" title="When and Where?">When and Where?</a></li>
+<li id="menu-item-2354" class="menu-item menu-item-type-post_type menu-item-object-homepagesections menu-item-2354"><a href="http://gsec.hitb.org/#past-events" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://gsec.hitb.org/#past-events', 'Past Events');" title="Past Events">Past Events</a></li>
+<li id="menu-item-2371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2371"><a href="http://gsec.hitb.org/cfp/" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://gsec.hitb.org/cfp/', 'Call for Papers');" title="Call for Papers">Call for Papers</a></li>
+<li id="menu-item-2308" class="menu-item menu-item-type-post_type menu-item-object-homepagesections menu-item-2308"><a href="http://gsec.hitb.org/#contact" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://gsec.hitb.org/#contact', 'Contact Us');" title="Contact Us">Contact Us</a></li>
+</ul>      </nav>
+    </div>
+    <!-- / container -->
+  </div>
+  <!-- / navigation -->
+
+<section class="inner">
+	<section class="inner_content">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+				<div class="error_page">
+				<h2>404</h2>
+				<h5>Sorry your requested page does not exist</h5>
+				</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+</section>	
+	<footer id="foot">
+		<div class="container">
+			<p class="copyrights">Hack In The Box // www.hitb.org </p>
+			
+			<ul id="menu-other-events" class="bottom_menu"><li id="menu-item-2268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2268"><a href="http://news.hitb.org">HITBSecNews</a></li>
+<li id="menu-item-2266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2266"><a href="http://conference.hitb.org/">HITBSecConf</a></li>
+<li id="menu-item-2267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2267"><a href="http://haxpo.nl">HITB Haxpo</a></li>
+</ul>	
+		</div>
+		<!-- container -->
+	</footer>
+
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/modernizr-2.6.2.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/bootstrap.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/plugins.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/jquery.easing.min.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/fancybox.min.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/jquery.form.js?ver=2.9.4'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/jquery.bxslider.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-content/themes/webmakers/js/main.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://gsec.hitb.org/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4346232-8', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>
